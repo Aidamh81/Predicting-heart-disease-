@@ -1,1 +1,1 @@
-# Predicting-heart-disease-
+# Simple Calculator Project
